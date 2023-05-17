@@ -146,7 +146,7 @@ p{
 .Header{
   color: rgb(175, 175, 175);
   background-image: linear-gradient(to bottom, #2d405b3f 0% ,#000000 100%),
-  url(../images/amazing-black-white-photography-beautiful-mountains-hills.jpg);
+  url(../images/beautiful-mountains-hills_50.jpg);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
@@ -172,7 +172,7 @@ p{
   line-height: 1.3;
   width: 50%;
 }
-.Header button{
+.Header .mainBtn{
   all: unset;
   background-color: rgba(0, 145, 255, 0.805);
   width: fit-content;
